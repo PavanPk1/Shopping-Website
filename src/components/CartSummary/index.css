@@ -1,0 +1,29 @@
+.cartSummaryContainer {
+  padding: 10px;
+  line-height: 1;
+  align-self: flex-end;
+}
+.grandTotal {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #616e7c;
+  font-weight: 600;
+}
+span {
+  color: #171f46;
+  font-weight: bold;
+}
+.summaryDescription {
+  color: #616e7c;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 14px;
+}
+.checkoutBtn {
+  background-color: #0b69ff;
+  border: 0;
+  border-radius: 5px;
+  padding: 5px;
+  width: 120px;
+  color: #ffffff;
+}
